@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hello! I'm Maria Temponera
 
 I'm a Junior Developer with a passion for front-end technologies. After completing the Coding Factory Bootcamp at AUEB, I've been focusing on projects that help me sharpen my skills in **Java**, **C#**, **Python**, **Typescript**, **JavaScript**, **HTML/CSS**, and **SQL**.
@@ -17,5 +14,3 @@ I'm a Junior Developer with a passion for front-end technologies. After completi
 
 🌱 I’m currently learning: React.js  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariatemp) | Email: marakitempo@yahoo.gr
-
--->
